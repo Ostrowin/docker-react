@@ -19,7 +19,7 @@ function App() {
           Learn React2
         </a>
       </header>
-      <p className="App-intro">Yo Yo Yo asdf</p>
+      <p className="App-intro">Yo edited in new feature branch</p>
     </div>
   );
 }
