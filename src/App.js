@@ -16,9 +16,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React2
         </a>
       </header>
+      <p className="App-intro">Yo Yo Yo asdf</p>
     </div>
   );
 }
